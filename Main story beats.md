@@ -1,0 +1,31 @@
+- Departure. 
+	- The Ordinary World. 
+	- The Call to Adventure. 
+	- Refusing the Call to Adventure. 
+	- Meeting the Mentor. 
+	- Crossing the Threshold.
+- Initiation. 
+	- Test, Allies, and Enemies. 
+	- Approach to the Inmost Cave. 
+	- The Ordeal. 
+	- The Reward.
+- Return. 
+	- The Road Back. 
+	- Resurrection. 
+	- Return With the Elixir.
+
+- City.
+	- Original Cutscene that shows the hero's departure.
+	- 10 Years later shows [[Adam Hoffman]] working in a shop in a lower middle class area of [[Tavapinhas]] when his sister and his boss are set to be drafted into [[Calixto Fleccia]]'s military and campaign against [[The tribes of Aral]] in the Badlands.
+	- To clear his head Adam heads outside the city to practice his swordsmanship thinking he is helpless in the face of the news.
+	- On his way back from practice bandits on the road force Adam to take a detour and as night falls he comes across a windmill on a hill overlooking the city, unwilling to try and brave the roads at knight knowing bandits are around he accepts an offer from [[the old lady]] in the windmill to stay the night. She takes great interest in his main crystal.
+	- After helping [[the old lady]] with some chores in the morning she asks if he knows how to fight. As she has been harassed by bandits these last few weeks she asks Adam if he would be willing to scare off the bandits somewhat, after some hesitancy he is surprised when [[the old lady]] gives him a blade. Adam decides to help the old lady and leaves to fight the bandits. The bandits themselves are peasants and deserters and their families who could no longer make a living as more and more able bodied younger people are drafted into [[Calixto Fleccia]]'s war.
+- Journey.
+	- After defeating the bandits Adam faces their leader [[Edgar Gama]] and must choose to either kill him or allow him to continue to roam the countryside assaulting military supply carts.
+	- Adam returns to the city and makes preparations to search for the hero to assist him so he can put an end to the need of the war. To this end many of his friends either agree to help him or choose to follow him heedless of his protests. Facing troubles along the way Adam approaches [[Lann]], the last Sancterran city in which the Hero was seen. In this city despite previous encounters with generals and military officials due to a large armed group travelling the countryside with a draftee Adam comes face to face with [[Calixto Fleccia]]. After and ambush and a close but ultimately lost fight between Adam and Calixto in a military labour camp Adam is kicked into the rushing waters of a canyon only to wake in the Badlands. After making first contact with the [[Aral]] Adam finds a local tribe chief and duels him to ask for information regarding the hero believing him to be the only way for him to recover his now imprisoned friends. The chief points Adam to a road leaving [[Lann]] that passes near his tribe's territory in [[Pheophraw]].
+	- Walking near this road Adam spots a military supply vehicle from [[Lann]] as it is attacked by what appears to be 5 [[Aral]] by dress but Adam notices they lack the distinct forehead crystal. Following them back from the attacked cart Adam comes across a secluded valley in the Badlands with a palace in its centre and watches as the 5 bandits remove their helmets to reveal themselves as the hero's party. An outraged Adam enters the palace to search for the hero only to find a man consumed by ambitions of greed and riches. After a fight the hero reveals that his position and his prophecy were manufactured by the king to unite the people behind the figurehead and the Aral have no actual intent of plunging the world into chaos. At least the majority of them. As the heroes party rush to assist the hero Adam is forced to retreat and Journeys to [[Avenny]] to speak to [[Aíne Avenny]], the current head of the tribes. After a duel Aíne chooses to join Adam on his quest along with a handful of Aral warriors to march on the secluded palace. After defeating his heroes Adam does not wish to return to Sancterra as the betrayal of the king is something Adam does not believe is his place to challenge. But the idea of his friends and sister being held captive spur him to act.
+- City.
+	- After Capturing the hero Adam uses him to return to [[Lann]] with Aíne and challenge [[Calixto Fleccia]] who will ask to join Adam after his defeat if Adam mentions the King's corruption.
+	- Returning to [[Tavapinhas]] Adam, Aíne and Calixto confront the king. His scheme had been to use the portal to [[The World Beyond]] to allow malicious entities to leak out and subsequently manufacturing a prophecy and hero to combat those same entities as the kign believes that the only way for his people to be truly united is with a single common enemy, which is why the king blamed these entities on the Aral.
+	- In a battle against the King as a final desperate act he Unseals the portal and allows both worlds to begin to meld and many entities to escape and pulling Adam [[The World Beyond]]. Both Calixto and Aíne are capable and know how to seal the portal again but they are reluctant to do so while Adam is within it, ultimately choosing to seal it once more while Tavapinhas is burning as they believe it is what he would have wanted.
+	- As Adam wanders [[The World Beyond]] tirelessly his blade seems to guide him to a light and upon reaching it he wakes in a familiar windmill as [[the old lady]] cleans the sword.

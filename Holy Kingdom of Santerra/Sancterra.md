@@ -13,7 +13,7 @@
 - **Language(s):** [[Palces]].
 - **Religion(s):** Sancterra follows the religion of [[Alhaorism]] but some regions still hold older more shamanistic [[Portuzian]] beliefs.
 - **Culture:** What are the customs, traditions, and arts of the people? What are their values and beliefs?
-- **Holidays and Festivals:** Does the country have any unique holidays or festivals?
+- **Holidays and Festivals:** Primarily varies by province as conquered lands are allowed to maintain their own celebrations
 
 ## **III. History and Lore**
 
