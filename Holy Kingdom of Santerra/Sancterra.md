@@ -2,7 +2,7 @@
 
 - **Name:** The Holy Kingdom Of Sancterra
 - **Location:** Sancterra occupies the entirety of the north of the continent on which it is located.
-- **Size:** Sancterra is the largest country in the known world, occupying over 7.3M km.
+- **Size:** Sancterra is the largest country in the known world, occupying over 7.3 million km.
 - **Climate:** While the country has variations in its climate due to its size it is predominantly a temperate deciduous forest.
 
 ## **II. People and Culture**
@@ -12,7 +12,7 @@
 - **Social Structure:** Sancterra follows a traditional feudalistic society with the difference that there is no social distinction between Bourgeoise and Nobles. The king is seen as the head of the church.
 - **Language(s):** [[Palces]].
 - **Religion(s):** Sancterra follows the religion of [[Alhaorism]] but some regions still hold older more shamanistic [[Portuzian]] beliefs, while officially outlawed they remain in ways that are difficult to crack down on. Many customs stem from those original local beliefs unbeknowns even to many who perform those customs.
-- **Culture:** What are the customs, traditions, and arts of the people? What are their values and beliefs?
+- **Culture:** The fine print of culture changes by region but by in large the values are fairly homogenized throughout the country. Those being family, community and the ability to protect those.
 - **Holidays and Festivals:** Primarily varies by province as conquered lands are allowed to maintain their own celebrations.
 
 ## **III. History and Lore**

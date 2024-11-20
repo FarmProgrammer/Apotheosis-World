@@ -81,7 +81,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -192,7 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
