@@ -9,20 +9,20 @@
 
 - **Races:** [[Servin]].
 - **Government:** Theocratic Monarchy.
-- **Social Structure:** Sancterra follows a traditional feudalistic society with the difference that there is no social distinction between Bourgeoise and Nobles 
+- **Social Structure:** Sancterra follows a traditional feudalistic society with the difference that there is no social distinction between Bourgeoise and Nobles. The king is seen as the head of the church.
 - **Language(s):** [[Palces]].
-- **Religion(s):** Sancterra follows the religion of [[Alhaorism]] but some regions still hold older more shamanistic [[Portuzian]] beliefs.
+- **Religion(s):** Sancterra follows the religion of [[Alhaorism]] but some regions still hold older more shamanistic [[Portuzian]] beliefs, while officially outlawed they remain in ways that are difficult to crack down on. Many customs stem from those original local beliefs unbeknowns even to many who perform those customs.
 - **Culture:** What are the customs, traditions, and arts of the people? What are their values and beliefs?
-- **Holidays and Festivals:** Primarily varies by province as conquered lands are allowed to maintain their own celebrations
+- **Holidays and Festivals:** Primarily varies by province as conquered lands are allowed to maintain their own celebrations.
 
 ## **III. History and Lore**
 
-- **Founding:** When and how was the country founded? Who were the key figures involved?
-- **Major Events:** Outline some of the major historical events that have shaped the country. Wars, rebellions, natural disasters, etc.
+- **Founding:** The country was founded and developed around what is now known as [[Tavapinhas]] roughly 1400 years before the current time by members of the [[Fleccia]] Royal Family when they encountered the portal to [[The World Beyond]] and sealed it after a fight against the otherworldly denizens that lasted the better part of 2 years known as [[The Sanctification War]], laying the first stone of Tavapinhas there.
+- **Major Events:** After its foundation the surrounding tribes and settlers from the island where the kingdoms of [[Ovi]] and [[Lai]] are now as well as from [[Napsa]] and [[Hetsia]] gave the newly founded Kingdom much respect and breathing room which it used to quickly become larger, occupying the entirety of what is now known as the [[Alsasca County]], with 2 more major cities [[Charanha]], founded 60 years after [[Tavapinhas]] due to the ease of transport over the river between the 2 settlements , another 140 years later [[Brasimao]] was founded north of [[Charanha]].
 - **Myths and Legends:** Does the country have any folktales, myths, or legends that shed light on its history or culture?
-- **Relationship with Other Countries:** How does the country interact with its neighbors? Are there any alliances, rivalries, or ongoing conflicts?
+- **Relationship with Other Countries:** Despite its warring past in the current world Sancterra is well liked due to its economic power.
 
-## **IV. Military and Defense**
+## **IV. Military and Defence**
 
 - **Military Structure:** How is the country's military organized? What are the different branches (army, navy, etc.)?
 - **Military Strength:** How strong is the country's military compared to its neighbors? What are its strengths and weaknesses?
