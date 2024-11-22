@@ -12,7 +12,7 @@
 
 - Backstory: The older brother of the current king The General abdicated the throne in favour of his younger brother when he discovered he did not inherit the holy (light) element from his bloodline, instead having developed the shadow element. He believes that people cannot trust solely in a hero and the country must be prepared to defend itself should the hero fail. To this end the draft since the hero's departure 10 years ago multiple fortresses have been constructed at the entrance to the badlands and drafts have been issued throughout the kingdom. 
 
-- Relationships: His brother, the king [[Luciano Fleccia]], [[Diyich Kahran]] captain of the cavalry, [[Ermdan starkanvil]] captain of infantry, [[Xigen Sunhold]] captain of the navy.
+- Relationships: His brother, the king [[King Luciano Fleccia III]], [[Diyich Kahran]] captain of the cavalry, [[Ermdan starkanvil]] captain of infantry, [[Xigen Sunhold]] captain of the navy.
 
 - Role in the Story: Supporting antagonist initially, and a potential ally.
 
