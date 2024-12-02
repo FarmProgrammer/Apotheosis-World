@@ -46,6 +46,9 @@ Year: 243
 	End of the [[Siege of Sanheito]] and the Sancterra-Sanheito war after [[King Roberto Sanheito I]] stains his royal robes white with the last flour in the city and flies it above the battlements in surrender. The Sanheito family was killed with exception to those under the age of 5 with the agreement that when they came of age they would be given status as nobles and maintain control of the region as an earldom becoming the [[Sanheito Earldom]]. Sanheito became obligated to celebrate the date of its official surrender as a holy festival as a form of enlightenment of its lands.
 Year: 256
 	[[Arnaldo Sanheito]] becomes Earl of Sanheito at 18 with the assistance of [[Alcides Relto]] as his advisor. Due to the size of [[Sancterra]] and its strength hostility brews between Sancterra and the [[Kingom of Arteixejo]] and the [[Kingdom of Nirasmo]]. The [[Kingdom of Palhavem]] and the [[Kingdom of Alhaora]] remain officially neutral but boost military spending.
+Year: 260
+	[[King Luciano Fleccia I]] Abdicates the throne in favour of his grandson [[King Reinaldo Fleccia I]] who survives an assassination attempt coordinated between his father and uncle [[Lord Emanuel Fleccia]] and [[Lord Euclides Fleccia]] respectively that is thwarted by a caretaker by the name of [[Longuet Olival]] who, despite no training, bested both men in single combat.
+	In an effort to curry favour with the new king [[Arnaldo Sanheito]] orchestrates a grievance to make it seem as if the [[Kingom of Arteixejo]] had attacked border troops at the [[Sanheito Earldom]] along the [[Aber River]]. He then uses this grievance to justify a "retaliation" known as the [[Aber Rush]]
 Year: 772
 	**[[King Luciano Fleccia III]] ascends to the throne** and [[The Prophecy]] is publicized.
 Year: 782
