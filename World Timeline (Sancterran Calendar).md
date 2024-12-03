@@ -21,9 +21,9 @@ Year: 114
 	After a long and prosperous rule [[King Calixto Fleccia I]] **abdicates the throne in favour of his firstborn [[King Marciano Fleccia I]]** (30, named in honour of his brother who's name was besmirched by the imposter) and retires to [[Charanha]].
 Year: 120
 	[[King Calixto Fleccia I]] comes out of retirement as [[King Marciano Fleccia I]] has ruled with an iron fist and the country is on the verge of rebellion, all but the very inner council of [[King Marciano Fleccia I]] side with Calixto and the latter is put to siege in his own palace and takes the lives of both his children and attempts to kill his younger siblings so he is the only heir. He became known as [[The Mad King]]. This forced Calixto to charge the well defended palace to save his remaining children whom he dies saving during a duel in which he also killed [[King Marciano Fleccia I]], the storming of the royal palace becomes a common play and story as well as the ensuing duel.
-	**[[King Alberto Fleccia II]] becomes king** at 32 being the only surviving heir after the death of his Father and elder brother.
+	**[[King Alberto Fleccia II]] becomes king** at 14 being the only surviving heir after the death of his Father and elder brother.
 Year: 140
-	After an uneventful rule [[King Alberto Fleccia II]] dies from illness and his only son **[[King Lourenco Fleccia I]] ascends to the throne at 25** and takes [[D. Maria Sanheito]]'s hand in a political marriage.
+	After an uneventful rule [[King Alberto Fleccia II]] dies from illness and his only son **[[King Lourenco Fleccia I]] ascends to the throne at 14** and takes [[D. Maria Sanheito]]'s hand in a political marriage.
 Year: 190
 	Death of [[King Lourenco Fleccia I]] after 50 years of rule and a famously rocky marriage with [[D. Maria Sanheito]] out of which came 3 children which many suspect to be bastards. This became the subject of many stories and dramas as well as the saying "Only the nuns of Tavapinhas know the mothers of Ivo". **[[King Ivo Fleccia II]] becomes king** at 40 with his wife [[D. Alberta Rovispin]].
 Year: 200
