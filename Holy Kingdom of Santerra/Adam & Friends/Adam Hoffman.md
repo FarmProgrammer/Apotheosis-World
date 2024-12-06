@@ -1,1 +1,14 @@
 Adam Hoffman is the main character for the game Apotheosis.  
+- **Name:** Adam Hoffman, Monster (by [[Aíne Avenny]]).
+- **Race:** Servin.
+- **Age and Appearance:** 20, 180 cm
+- **Personality:** Hoffman is reserved preferring to react over acting (something that will develop as the story does to not bore the player), with an idealistic worldview shown through his belief in heroes and unwilling to see the world in anything but black and white.
+- **Motivation:** Adam has taken to heart the beliefs of Sancterra, to him his family and community are the most important, having always trained in hopes of supporting and protecting them.
+- **Skills and Abilities:** Adams [[Alophelos]], the organ that purifies magic, is incredibly efficient, meaning there is no magical residue for him to form into magic as others do, as such he is unable to use spells and such, however, his enhanced purification of magic allows his body to perform at levels far surpassing that of other [[Servin]]. Adam is also an unexperienced but well trained swordsman, having trained from manuals in his father's library.
+- **Strengths and Weaknesses:** Adam's main weaknesses are his steadfast belief in objective good and evil, as well as the underestimation of his own potential, usually having to be pushed into situations. 
+- **Backstory:** Adam moved with his parents and sister to [[Sancterra]] when he was around 10 years old in the year 772 of the sancterran calendar, the same year [[King Luciano Fleccia III]] ascended to the throne and publicized [[The Prophecy]], enchanting many with the story of the hero. At the start of the story he is met with the news of his sister's conscription and decides to set out to the border to join the army at the frontlines hoping to find the hero and help him end the war that caused the conscription.
+- **Relationships:** 
+	- [[Elithia Hoffman]], his sister.
+	- [[Bartolf Hoffman]], his father.
+	- [[Frena Hoffman]], his mother.
+- **Role in the Story:** Protagonist.
